@@ -1,0 +1,19 @@
+.newGridbtn{
+    padding-left:50%;
+    padding-right:50%;
+    
+    font-size:20px;
+}
+.gridBlock{
+    display:flex;
+    border:1px solid blue; 
+
+}
+.gridInline{
+    border:1px solid red; 
+    padding-left:1vh;
+    padding-right:1vh;
+    padding-top:2vh;
+    padding-bottom:2vh;
+    flex:1;
+}
