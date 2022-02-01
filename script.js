@@ -1,6 +1,5 @@
 var index = 0;
 originalDOM = document.body.innerHTML;
-
 function change(e) {
   console.log(e);
 }
